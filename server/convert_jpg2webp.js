@@ -3,7 +3,7 @@ import path from 'path'
 import { PUBLIC_PATH } from './src/paths.js'
 import sharp from 'sharp'
 
-const dir = path.resolve(PUBLIC_PATH, './images')
+const dir = path.resolve(PUBLIC_PATH, './images/profiles')
 // const dir = path.resolve(PUBLIC_PATH, './images/profiles')
 
 ;(async () => {
